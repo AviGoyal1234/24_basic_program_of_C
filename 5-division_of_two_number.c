@@ -9,6 +9,6 @@ int main()
     
     c = a / b;
     
-    printf("Multiplication of two number = %d", c);
-    return ;
+    printf("Division of two number = %d", c);
+    return 0;
 }
