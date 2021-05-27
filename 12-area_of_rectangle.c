@@ -3,9 +3,9 @@ int main()
 {
    float length,breadth,area;
    
-   printf("Enter length of circle : ");
+   printf("Enter length of rectangle : ");
    scanf("%f" , &length);
-   printf("Enter breadth of circle : ");
+   printf("Enter breadth of rectangle : ");
    scanf("%f" , &breadth);
    
    area = length * breadth;
